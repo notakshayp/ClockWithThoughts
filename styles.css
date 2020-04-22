@@ -1,0 +1,33 @@
+body{
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0 ;
+}
+.content{
+     margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+#clock {
+    font-weight: 300;
+    font-size:15vw;
+}
+
+#thought {
+    font-weight: 300;
+    font-size:3vw;
+    background-color: rgba(0, 0, 0, 0.287);
+    border-radius: 7px;
+    padding: 2vw;
+    margin: 4vw auto;
+    width: 75%;
+}
+
+#author{
+    font-weight: 150;
+    font-style: italic;
+    font-size:3vw;
+}
